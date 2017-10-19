@@ -1,0 +1,18 @@
+{
+  "name": "node_starter",
+  "version": "1.0.0",
+  "description": "start to learn node",
+  "main": "example.js",
+  "dependencies": {
+    "express": "4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "node_stater"
+  ],
+  "author": "lindan tian",
+  "license": "MIT"
+}

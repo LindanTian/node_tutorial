@@ -1,0 +1,2 @@
+(1) test the input txt line one
+(2) test the input text line two
